@@ -17,4 +17,4 @@ tags:
 
 
 참고자료
-[전가상화와 반가상화에 대한 ](https://m.blog.naver.com/PostView.nhn?blogId=brickbot&logNo=220413822823&proxyReferer=https%3A%2F%2Fwww.google.com%2F)
+[전가상화와 반가상화에 대한 설명](https://m.blog.naver.com/PostView.nhn?blogId=brickbot&logNo=220413822823&proxyReferer=https%3A%2F%2Fwww.google.com%2F)
