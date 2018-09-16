@@ -1,3 +1,11 @@
+---
+title: "전가상화/반가상화"
+categories:
+  - 서버
+tags:
+  - server
+  - virtualization
+---
 전가상화
 - 전가상화는 하드웨어까지 가상화시키는 방법
 - OS를 수정할 필요가 없음
