@@ -27,5 +27,4 @@ tags:
 
 
 참고:
-
-Using Containers to Build a Microservices Architecture[https://medium.com/aws-activate-startup-blog/using-containers-to-build-a-microservices-architecture-6e1b8bacb7d1]
+[Using Containers to Build a Microservices Architecture](https://medium.com/aws-activate-startup-blog/using-containers-to-build-a-microservices-architecture-6e1b8bacb7d1)
