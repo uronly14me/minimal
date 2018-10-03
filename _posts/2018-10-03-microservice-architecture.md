@@ -18,6 +18,6 @@ tags:
   * 관리 용이성
 
 
-## Micro Service Architecture
+## Microservice Architecture
 * 시스템을 여러개의 독립적인 서비스로 나누고 이 서비스들을 조합하여 기능을 제공하는 아케텍처 디자인 패턴
 * SOA의 경량화 버전
