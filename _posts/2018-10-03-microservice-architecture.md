@@ -24,3 +24,8 @@ tags:
 * 서비스들 끼리는 프로토콜로 통신 (HTTP 등)
 * 장점
   * 서비스 각각이 리소스의 필요에따라 스케일링이 가능
+
+
+참고:
+
+Using Containers to Build a Microservices Architecture[https://medium.com/aws-activate-startup-blog/using-containers-to-build-a-microservices-architecture-6e1b8bacb7d1]
